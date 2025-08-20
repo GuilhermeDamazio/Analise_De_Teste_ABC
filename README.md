@@ -1,4 +1,7 @@
-# Analise De Teste ABC
+# <p align="center">Analise De Teste ABC</p>
+![Tomada de decisão](https://d1lzrgdbvkolkd.cloudfront.net/2443_B_5e745ed00e.jpg)
+
+
 Este projeto traz a resolução de um case técnico que solicita uma análise de teste ABC de alguns datasets. Todos os dados são fictícios e foram gerados pela empresa responsável pelo case técnico. A análise abrange desde o comportamento de clientes até o desempenho de categorias e informações sobre regiões com maior percentual de venda, oferecendo insights valiosos para tomadas de decisão estratégicas.
 
 ## 🧰 Tecnologias Utilizadas
@@ -81,4 +84,5 @@ Este arquivo detalha cada item individual que compôe um pedido Um único pedido
 - Qual o faturamento por cidade?
 - A categoria do produto influencia no status do pedido?
 - Qual a categoria mais vendida?
+- Qual foi o faturamento(R$) por categoria?
 - Número de pedidos CONFIRMADOS, CANCELADOS e PENDENTES
